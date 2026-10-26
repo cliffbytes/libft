@@ -6,8 +6,15 @@
 /*   By: sejacque <sejacque@student.42belgium.be>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/19 03:09:44 by sejacque          #+#    #+#             */
-/*   Updated: 2026/10/26 15:20:39 by sejacque         ###   ########.fr       */
+/*   Updated: 2026/10/26 16:31:16 by sejacque         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
+
+int	ft_isalpha(int c)
+{
+	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+		return (1);
+	return (0);
+}
