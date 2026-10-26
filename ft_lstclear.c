@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstclear.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sejacque <sejacque@student.42belgium.fr>   +#+  +:+       +#+        */
+/*   By: sejacque <sejacque@student.42belgium.be>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 00:43:27 by sejacque          #+#    #+#             */
 /*   Updated: 2026/10/21 00:43:28 by sejacque         ###   ########.fr       */

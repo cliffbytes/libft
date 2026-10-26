@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memcmp.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sejacque <sejacque@student.42belgium.fr>   +#+  +:+       +#+        */
+/*   By: sejacque <sejacque@student.42belgium.be>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 00:39:52 by sejacque          #+#    #+#             */
 /*   Updated: 2026/10/21 00:39:53 by sejacque         ###   ########.fr       */

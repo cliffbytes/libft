@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sejacque <sejacque@student.42belgium.fr>   +#+  +:+       +#+        */
+/*   By: sejacque <sejacque@student.42belgium.be>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 00:44:13 by sejacque          #+#    #+#             */
 /*   Updated: 2026/10/26 15:23:27 by sejacque         ###   ########.fr       */

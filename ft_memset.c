@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memset.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sejacque <sejacque@student.42belgium.fr>   +#+  +:+       +#+        */
+/*   By: sejacque <sejacque@student.42belgium.be>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/20 23:00:28 by sejacque          #+#    #+#             */
 /*   Updated: 2026/10/26 15:21:28 by sejacque         ###   ########.fr       */

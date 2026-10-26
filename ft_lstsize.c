@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_lstsize.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sejacque <sejacque@student.42belgium.fr>   +#+  +:+       +#+        */
+/*   By: sejacque <sejacque@student.42belgium.be>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 00:43:53 by sejacque          #+#    #+#             */
 /*   Updated: 2026/10/21 00:43:54 by sejacque         ###   ########.fr       */

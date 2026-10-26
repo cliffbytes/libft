@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: sejacque <sejacque@student.42belgium.fr>   +#+  +:+       +#+         #
+#    By: sejacque <sejacque@student.42belgium.be>   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/10/21 00:38:11 by sejacque          #+#    #+#              #
 #    Updated: 2026/10/26 14:45:00 by sejacque         ###   ########.fr        #
