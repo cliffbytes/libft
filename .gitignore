@@ -1,0 +1,5 @@
+*.o
+*.a
+*.pdf
+main.c
+libft_test
